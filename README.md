@@ -1,4 +1,13 @@
-## Hi there 👋
+# 💫 About Me:
+hey, i'm naisha 👋<br><br>currently learning everything i can about finance, ai, and math.<br><br>not super active on here, but when i am, i mostly build random things, experiment with ideas, and occasionally ship projects that actually work.<br><br>outside of git though,<br><br>building things.<br>breaking things.<br>learning from both.<br><br>interested in:<br>- financial engineering<br>- ai + ml<br>- quantitative finance<br>- startups & vc<br>- open source<br><br>always down to learn something new.
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naishavatsya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naisha-vatsya/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naishasvatsya1@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **nvatsya1/nvatsya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
