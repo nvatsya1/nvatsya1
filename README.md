@@ -1,5 +1,5 @@
 # 💫 About Me:
-hey, i'm naisha 👋<br><br>currently learning everything i can about finance, ai, and math.<br><br>not super active on here, but when i am, i mostly build random things, experiment with ideas, and occasionally ship projects that actually work.<br><br>outside of git though, im usually<br><br>building things.<br>breaking things.<br>and learning from both.<br><br>interested in:<br>- financial engineering<br>- ai + ml<br>- quantitative finance<br>- startups & vc<br>- open source<br><br>always down to learn something new.
+hey, i'm naisha 👋<br><br>currently learning everything i can about finance, ai, and math.<br><br>not super active on here.<br><br>usuallythough, im<br><br>building things.<br>breaking things.<br>and learning from both.<br><br>interested in:<br>- financial engineering<br>- ai + ml<br>- quantitative finance<br>- startups & vc<br>- open source<br><br>always down to learn something new.
 
 
 ## 🌐 Socials:
