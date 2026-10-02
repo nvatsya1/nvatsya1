@@ -1,5 +1,5 @@
 # 💫 About Me:
-hey, i'm naisha 👋<br><br>currently learning everything i can about finance, ai, and math.<br><br>not super active on here.<br><br>interested in:<br>- financial engineering<br>- ai + ml<br>- quantitative finance<br>- startups & vc<br>- open source<br><br>always down to learn something new.
+hey, i'm naisha 👋<br><br>currently learning everything i can about finance, ai, and applied math.<br><br>not super active on here.<br><br>interested in:<br>- financial engineering<br>- ai + ml<br>- quantitative finance<br>- startups & vc<br>- open source<br><br>always down to learn something new.
 
 
 ## 🌐 Socials:
